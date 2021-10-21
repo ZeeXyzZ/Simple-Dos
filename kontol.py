@@ -7,7 +7,6 @@ import sys
 
 os.system("clear")
 print("""\033[92m
-            TOOLS BY ZeeXyZ
    _____        __  __     _____
  |__  /___  ___\ \/ /   _|__  /
    / // _ \/ _ \\  / | | | / / 
@@ -15,13 +14,12 @@ print("""\033[92m
  /____\___|\___/_/\_\__, /____|
                     |___/      
                           """)
-print("           TOOLS BY : ZeeXyZ")
-print("###########################################")
+print("=============================================")
 print(" | AUTHOR : ZeeXyZ")
 print(" | GITHUB : https://github.com/ZeeXyzZ/Ddos")
 print(" | DISCORD : ! ZeeXyZ#3072                  ")
 print(" | MY TEAM : https://discord.gg/uGpDHvau5A")
-print(" ###########################################")
+print("=============================================")
 ip = str(input(" IP TARGET:"))
 port = int(input(" PORT:"))
 choice = str(input(" GAS DDOS?(y/n):"))
